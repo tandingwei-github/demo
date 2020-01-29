@@ -8,8 +8,6 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		//一行注释
-		//又一行注释
 	}
 
 }
